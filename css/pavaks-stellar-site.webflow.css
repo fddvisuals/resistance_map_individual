@@ -66,11 +66,11 @@
 .methodology-block {
   position: absolute;
   left: auto;
-  top: 0%;
+  top: auto;
   right: 0%;
-  bottom: auto;
+  bottom: 0%;
   z-index: 1;
-  display: none;
+  display: block;
   width: 80%;
   height: auto;
   border-radius: 13px;
